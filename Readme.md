@@ -9,5 +9,4 @@ Edit the `index.html`- and `index.js`-file to edit the chrome extension-page, ed
 Open Chrome, open the chrome-settings -> extensions -> load unpacked extension -> Choose the "Demo Chrome-Extension"-folder from this GitHub!
 Now you can open the extension in the tab-bar with a click on the extension!
 
-Please start my GitHub!
 This Project is under the MIT-License!
